@@ -2,5 +2,5 @@
 let text = document.querySelector("#status");
 const btn = document.querySelector("#enterBtn");
 btn.addEventListener("click", ()=>{
-	text.innerHTML = "<h1>Entered Metaverse<h1>";
+	text.innerHTML = "<h1>Entered Metaverse</h1>";
 })
